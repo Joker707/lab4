@@ -1,0 +1,2 @@
+include ':biblib'
+rootProject.name = "biblib"

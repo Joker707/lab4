@@ -1,0 +1,3 @@
+include ':biblib'
+include ':app'
+rootProject.name = "lab4_real"
